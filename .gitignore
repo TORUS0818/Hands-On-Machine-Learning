@@ -1,4 +1,6 @@
 .DS_Store
 datasets/
 images/
+models/
+logs/
 notebook/.ipynb_checkpoints/
